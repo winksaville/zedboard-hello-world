@@ -1,4 +1,4 @@
-Zedboard-hello-world
+Zedboard hello world
 ====================
 
 Here is a way to use git with Vivado. The project is a
