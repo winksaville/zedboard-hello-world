@@ -5,7 +5,7 @@ VIVADO_DIR = /opt/Xilinx/Vivado/2014.4
 VIVADO_EXE = $(VIVADO_DIR)/bin/vivado
 
 all:
-	$(VIVADO_EXE) -mode batch -source build.tcl
+	$(VIVADO_EXE) -mode batch -source build.tcl -notrace
 
 clean:
 	@ rm -rf $(GENERATED_DIR) vivado.log vivado.jou
