@@ -1,6 +1,9 @@
 Zedboard hello world
 ====================
 
+Issue: I cloned this repo and then "made all" but it looks like the "Write Project TCL.." didn't save the
+software, so I have to look at seeing how to preserve the software.
+
 Here is a way to use git with Vivado. The project is a
 Zedboard Hello World project with no content in the
 PL (Programmable logic) and only a trivial Hello World
