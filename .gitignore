@@ -1,5 +1,7 @@
 *.log
 *.jou
 *.swp
+*.o
+Debug/
 eclipse-workspace/
 zedboard-hello-world/
